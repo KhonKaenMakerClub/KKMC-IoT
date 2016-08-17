@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\unhide.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\unhide.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_root_hide_amin.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_show_animation.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\snackbar_show_animation.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dim_instant.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\dim_instant.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_animator.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\push_animator.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\undim_instant.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\undim_instant.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\snackbar_hide_animation.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\unhide_instant.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\unhide_instant.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\ripple.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\ripple.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\undim.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\undim.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_root_show_amin.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\progress_indeterminate_animation.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_main_hide_amination.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dim.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\dim.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\dialog_main_show_amination.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\anim\\dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\anim\\hide.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\anim\\hide.xml"
+    }
+]

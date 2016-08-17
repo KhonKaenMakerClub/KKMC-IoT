@@ -1,0 +1,236 @@
+[
+    {
+        "outputFile": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 465
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2915,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 3325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 470,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1350
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 699,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1355,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1724
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2348,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 2717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1729,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1915
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2723,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 2909
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1920,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2311
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1952,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2316,
+                    "endLine": 42,
+                    "endColumn": 12,
+                    "endOffset": 2679
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2684,
+                    "endColumn": 77,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4685,
+                        "endColumn": 77,
+                        "endOffset": 4758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3430
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3331,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 3999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3435,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3777
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4005,
+                        "endLine": 77,
+                        "endColumn": 12,
+                        "endOffset": 4347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3782,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4107
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4354,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 4679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4112,
+                    "endLine": 66,
+                    "endColumn": 12,
+                    "endOffset": 4256
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4764,
+                        "endLine": 90,
+                        "endColumn": 12,
+                        "endOffset": 4908
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_bg_round.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\button_bg_round.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock_analog_minute_mipmap.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\clock_analog_minute_mipmap.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_bar_onoff.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\indicator_bar_onoff.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_plusone.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_plusone.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock_tab.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\clock_tab.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\done_background_color_dark.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\drawable\\done_background_color_dark.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\add_alarm.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\add_alarm.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_reset.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_reset.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_alarm_alert_outerring.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_alarm_alert_outerring.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_alarm_alert.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\btn_alarm_alert.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_checkbox.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_backspace.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_backspace.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_switch_ball_uncheck.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_switch_ball_uncheck.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_button_rectangle.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_rectangle.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_strip_trans_left.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\btn_strip_trans_left.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_label.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_label.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\alarm_tab.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\alarm_tab.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\action_bar_icon.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\action_bar_icon.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_fastscroll_thumb.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\red_fastscroll_thumb.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock_analog_hour_mipmap.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\clock_analog_hour_mipmap.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\alarm_background_normal.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\alarm_background_normal.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_progress.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_progress.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_strip_trans_right.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\btn_strip_trans_right.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow_right.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_right.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\footer_bg.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\footer_bg.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_checkbox_check.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_check.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_button.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_share.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\header_bg_bar.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\header_bg_bar.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_strip_trans_middle.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\btn_strip_trans_middle.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\timer_tab.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\timer_tab.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock_analog_dial_mipmap.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\clock_analog_dial_mipmap.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock_selector.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\clock_selector.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\toggle_underline.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\toggle_underline.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\item_background.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\item_background.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_alarm_alert_snooze.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_alarm_alert_snooze.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_button_float.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_button_float.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\incall_round_button.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\incall_round_button.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_transparent.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_transparent.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_alarm_alert_dismiss.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_alarm_alert_dismiss.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_alarm_alert_touch_handle.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_alarm_alert_touch_handle.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\header_bg.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\header_bg.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\red_checkbox.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\red_checkbox.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_delete.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\indicator_clock_onoff.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\indicator_clock_onoff.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\activated_background_holo_dark.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\activated_background_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\clock_analog_second_mipmap.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\clock_analog_second_mipmap.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_lap.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\ic_lap.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_button_red.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\main_button_red.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\main_button_normal.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\main_button_normal.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\done_background_color.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\drawable\\done_background_color.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\shadow_down.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\shadow_down.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\background_checkbox_uncheck.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable\\background_checkbox_uncheck.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\stopwatch_tab.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable\\stopwatch_tab.xml"
+    }
+]

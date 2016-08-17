@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_noalarms.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_noalarms.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_plusone_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_plusone_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_plusone_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_plusone_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_plusone_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_plusone_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\clock_analog_minute.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\clock_analog_minute.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_reset_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_reset_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_clock_brightness.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_clock_brightness.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_share_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_share_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_reset_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_reset_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_lap_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_lap_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_alarm_small.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_alarm_small.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_delete_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_delete_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_backspace_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_backspace_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\clock_analog_hour.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\clock_analog_hour.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_lap_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_lap_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_delete_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_delete_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_share_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_share_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_backspace_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_backspace_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\ic_backspace_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\ic_backspace_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\clock_analog_dial.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\clock_analog_dial.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-mdpi-v13\\clock_analog_second.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-sw600dp-mdpi\\clock_analog_second.png"
+    }
+]

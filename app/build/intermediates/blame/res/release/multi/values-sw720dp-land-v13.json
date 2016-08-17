@@ -1,0 +1,235 @@
+[
+    {
+        "outputFile": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 879,
+                        "endColumn": 62,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 53,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 992,
+                        "endColumn": 53,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 48,
+                    "endOffset": 216
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 48,
+                        "endOffset": 987
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 221,
+                    "endColumn": 60,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1399,
+                        "endColumn": 60,
+                        "endOffset": 1455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 65,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1333,
+                        "endColumn": 65,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 61,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1271,
+                        "endColumn": 61,
+                        "endOffset": 1328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 56,
+                    "endOffset": 462
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 56,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 467,
+                    "endColumn": 50,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1460,
+                        "endColumn": 50,
+                        "endOffset": 1506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 54,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1099,
+                        "endColumn": 54,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 62,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 62,
+                        "endOffset": 1212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 52,
+                    "endOffset": 684
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1046,
+                        "endColumn": 52,
+                        "endOffset": 1094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 689,
+                    "endColumn": 53,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1217,
+                        "endColumn": 53,
+                        "endOffset": 1266
+                    }
+                }
+            }
+        ]
+    }
+]

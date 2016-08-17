@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\values-v17\\values-v17.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\values-v17\\config.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 51,
+                        "endOffset": 965
+                    }
+                }
+            }
+        ]
+    }
+]

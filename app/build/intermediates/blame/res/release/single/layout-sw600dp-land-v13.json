@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-land-v13\\world_clock_list_item.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\layout-sw600dp-land\\world_clock_list_item.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-land-v13\\alarm_clock.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\layout-sw600dp-land\\alarm_clock.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\layout-sw600dp-land-v13\\date_picker_dialog.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\layout-sw600dp-land-v13\\date_picker_dialog.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\appwidget_analog_clock_preview.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-nodpi\\appwidget_analog_clock_preview.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-nodpi-v4\\appwidget_digital_clock_preview.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-nodpi\\appwidget_digital_clock_preview.png"
+    }
+]

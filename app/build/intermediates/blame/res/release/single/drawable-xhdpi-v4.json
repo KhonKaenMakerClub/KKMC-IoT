@@ -1,0 +1,626 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dialog_background.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\dialog_background.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_alarm_small.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_small.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_backspace_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_backspace_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_clock.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_clock.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\list_activated_holo.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\list_activated_holo.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_middle_normal.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_middle_normal.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_in_call_round_disable_focused.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_in_call_round_disable_focused.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_clock_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_clock_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_backspace_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_backspace_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clock_analog_minute.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\clock_analog_minute.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_alarm_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\stat_notify_timer.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\stat_notify_timer.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_disabled_focused_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_disabled_focused_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_middle_pressed.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_middle_pressed.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_notify_stop.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_notify_stop.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_diamond_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_diamond_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\float_button_shadow1.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\float_button_shadow1.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_alarms.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_alarms.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_stopwatch_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_stopwatch_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_done_holo_dark.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_done_holo_dark.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_add_alarm_selected.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_add_alarm_selected.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dialog_divider_horizontal_light.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\dialog_divider_horizontal_light.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_backspace_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_backspace_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lock_idle_alarm_saver_dim.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_idle_alarm_saver_dim.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_glowdot.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_glowdot.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_add_alarm.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_add_alarm.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_add.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_add.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\toggle_underline_normal.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_normal.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ab_hairline.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ab_hairline.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\fastscroll_label_left_holo_dark.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\fastscroll_label_left_holo_dark.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_right_selected.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_right_selected.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dialog.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\dialog.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_ringtone.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_ringtone.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_notify_reset.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_notify_reset.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_delete_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_notify_lap.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_notify_lap.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_disabled_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_disabled_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_left_pressed.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_left_pressed.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_alarm_normal.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_alarm_normal.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_strip_desk_clock.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_strip_desk_clock.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_desk_clock.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_desk_clock.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_right_normal.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_right_normal.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\toggle_underline_activated.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\toggle_underline_activated.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_indicator_on.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_on.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_pressed_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_pressed_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lapalternate_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lapalternate_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_label_small.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_label_small.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_reset_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_reset_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_alarm.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_alarm.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_focused_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_focused_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_alarm_on.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_alarm_on.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_discard_holo_dark.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_discard_holo_dark.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_x_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_x_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_trash.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_trash.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lock_idle_alarm_saver.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_idle_alarm_saver.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\fastscroll_thumb_pressed_holo.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\fastscroll_thumb_pressed_holo.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_strip_gallery.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_strip_gallery.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_reloj_max.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\ic_reloj_max.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_timer.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_timer.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_expand_down.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_down.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\stat_notify_stopwatch.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\stat_notify_stopwatch.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lock_idle_alarm.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lock_idle_alarm.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_pressed_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_pressed_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\appwidget_clock_minute.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\appwidget_clock_minute.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_setalarm_holo_dark.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_setalarm_holo_dark.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lapalternate.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lapalternate.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_timer_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_timer_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lap_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lap_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\divider_vertical_dark.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\divider_vertical_dark.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_disabled_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_disabled_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_reset_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_reset_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clock_analog_second.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\clock_analog_second.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_right_pressed.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_right_pressed.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clock_analog_dial.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\clock_analog_dial.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_disabled_focused_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_disabled_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_middle_selected.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_middle_selected.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_start_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_start_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_stopwatch_activated.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_stopwatch_activated.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_pressed_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_pressed_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_share_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_plusone_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_plusone_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_clock_face.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_clock_face.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_expand_up.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_expand_up.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_delete_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_disabled_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_disabled_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\alarm_alert_fullscreen_bg.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\alarm_alert_fullscreen_bg.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_in_call_round_selected.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_in_call_round_selected.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lap_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lap_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_clock_activated.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_clock_activated.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_label_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_label_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_location.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_adder.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_adder.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_pressed_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_pressed_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\checkbox_radio_xxhdpi_red_14_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\checkbox_radio_xxhdpi_red_14_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_noalarms.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_noalarms.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_globe.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_globe.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_alarm_off.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_alarm_off.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_left_selected.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_left_selected.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_alarm_selected.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_alarm_selected.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_strip_alarm.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_strip_alarm.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_brightness.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_brightness.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_snooze_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_snooze_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_disabled_focused_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_disabled_focused_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_focused_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_notify_start.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_notify_start.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_round_brightness.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_round_brightness.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_alarm.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_alarm.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_in_call_round_disable.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_in_call_round_disable.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_focused_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_focused_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_start_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_start_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_strip_home.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_strip_home.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_on_disabled_focused_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_on_disabled_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lapalternate_disabled.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lapalternate_disabled.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_alarm_focused.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_alarm_focused.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_clock_strip_music.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_clock_strip_music.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_share_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_wakeup_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_wakeup_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_dialog_time.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_dialog_time.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_stop_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_stop_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\clock_analog_hour.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\clock_analog_hour.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_disabled_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_disabled_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_indicator_off.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_indicator_off.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\panel_undo_holo.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\panel_undo_holo.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\list_selector_background_pressed.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\list_selector_background_pressed.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_holo_light_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_holo_light_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu_revert_holo_dark.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_revert_holo_dark.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_strip_trans_left_normal.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_strip_trans_left_normal.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_in_call_round_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_in_call_round_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_alarm_pressed.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_alarm_pressed.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_check_off_focused_holo_dark_red.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_check_off_focused_holo_dark_red.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\sprite_check.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\sprite_check.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_timer_activated.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_timer_activated.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_add.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lap_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lap_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\float_button1_shadowp.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\com.github.navasmdc\\MaterialDesign\\1.5\\res\\drawable-xhdpi-v4\\float_button1_shadowp.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_wakeup_activated.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_wakeup_activated.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\appwidget_clock_hour.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\appwidget_clock_hour.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_handle_pressed.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_handle_pressed.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_label_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_label_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_stopwatch.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_tab_stopwatch.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\fastscroll_label_right_holo_dark.9.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\fastscroll_label_right_holo_dark.9.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_in_call_round_normal.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\btn_in_call_round_normal.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_diamond_white.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_diamond_white.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\appwidget_clock_dial.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\appwidget_clock_dial.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\stat_notify_alarm.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\stat_notify_alarm.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\appwidget_clock_second.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\appwidget_clock_second.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\fastscroll_thumb_default_holo.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\fastscroll_thumb_default_holo.png"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_lockscreen_snooze_activated.png",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_lockscreen_snooze_activated.png"
+    }
+]

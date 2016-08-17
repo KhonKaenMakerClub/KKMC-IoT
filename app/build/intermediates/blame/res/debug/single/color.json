@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\done_text_color.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\color\\done_text_color.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\date_picker_year_selector.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\color\\date_picker_year_selector.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\date_picker_selector.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\color\\date_picker_selector.xml"
+    },
+    {
+        "merged": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\done_text_color_dark.xml",
+        "source": "I:\\FishTank\\LightUpDroid-Alarm-master\\app\\build\\intermediates\\exploded-aar\\LightUpDroid-Alarm-master\\datetimepicker\\unspecified\\res\\color\\done_text_color_dark.xml"
+    }
+]

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.daimajia.swipe.SwipeLayout xmlns:swipe="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/swipe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        swipe:leftEdgeSwipeOffset="0dp"
+        swipe:rightEdgeSwipeOffset="0dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:background="#5e5e5e"
+            android:gravity="center"
+            android:tag="Bottom3"
+            android:weightSum="10">
+
+            <ImageView
+                android:id="@+id/trash"
+                android:layout_width="27dp"
+                android:layout_height="30dp"
+                android:layout_weight="1"
+                android:src="@drawable/ic_trash" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="5"
+                android:text="Delete Item?"
+                android:textColor="#fff"
+                android:textSize="17sp" />
+
+            <Button
+                android:id="@+id/delete"
+                android:layout_width="0dp"
+                android:layout_height="40dp"
+                android:layout_weight="4"
+                android:background="#787878"
+                android:text="Delete"
+                android:textColor="#121212" />
+        </LinearLayout>
+        <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:gravity="center_vertical"
+            android:background="@color/dark_gray"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:paddingLeft="10dip"
+                android:id="@+id/topic_show"
+                android:clickable="true"
+                android:checked="true"
+                android:button="@drawable/red_checkbox"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+
+            <ImageView
+                android:id="@+id/city_selected_icon"
+                android:clickable="false"
+                android:src="@drawable/ic_globe"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content" />
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingEnd="10dip"
+            android:ellipsize="end"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/topic_name"
+                style="@style/city_name"
+                android:textColor="@color/clock_white"
+                android:paddingStart="16dip"
+                android:paddingEnd="10dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:layout_width="wrap_content"
+                android:text="test" />
+            <TextView
+                android:id="@+id/refresh_time"
+                style="@style/refresh_rate"
+                android:paddingStart="16dip"
+                android:textColor="@color/clock_gray"
+                android:layout_weight="1"
+                android:singleLine="true"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Refresh Rate : 5" />
+            </LinearLayout>
+            <TextView
+                android:id="@+id/last_value"
+                style="@style/city_name"
+                android:textColor="@color/clock_white"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="" />
+            <TextView
+                android:id="@+id/topic_unit"
+                style="@style/city_name"
+                android:layout_marginRight="5dip"
+                android:textColor="@color/clock_white"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="%" />
+
+        </LinearLayout>
+    </com.daimajia.swipe.SwipeLayout>
+</LinearLayout>
